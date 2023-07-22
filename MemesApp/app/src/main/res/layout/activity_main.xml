@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+
+<!--        android:layout_above="@+id/nextbtn"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_marginTop="610dp"-->
+<!--        android:layout_marginBottom="32dp" />-->
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="634dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="-2dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+
+    <ProgressBar
+        android:id="@+id/progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_centerInParent="true" />
+
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/text"-->
+<!--        android:layout_below="@+id/imageView"-->
+<!--        android:layout_above="@+id/sharebtn"/>-->
+
+
+
+    <Button
+        android:id="@+id/sharebtn"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:onClick="shareMeme"
+        android:text="@string/share"
+        android:textSize="20sp"
+        android:layout_marginLeft="10dp"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:id="@+id/nextbtn"
+        android:text="@string/next"
+        android:textSize="20sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:onClick="nextMeme"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/about"
+        android:title="About"/>
+
+    <item android:id="@+id/administration"
+        android:title="Administration"/>
+
+    <item android:id="@+id/academic"
+        android:title="Academic"/>
+
+    <item android:id="@+id/dapartments"
+        android:title="Departments"/>
+
+    <item android:id="@+id/activities"
+        android:title="Activities"/>
+
+    <item android:id="@+id/studentcorner"
+        android:title="Student Corner"/>
+
+    <item android:id="@+id/placement"
+        android:title="Placement"/>
+
+    <item android:id="@+id/contactus"
+        android:title="Contact Us"/>
+
+</menu>

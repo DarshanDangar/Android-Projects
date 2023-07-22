@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailyKharch</string>
+    <string name="you_gave">YOU GAVE</string>
+    <string name="you_got">YOU GOT</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "906363775700",
+    "project_id": "dailykharch-9d91c",
+    "storage_bucket": "dailykharch-9d91c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906363775700:android:be1eb474fb0b415984a941",
+        "android_client_info": {
+          "package_name": "com.darshandangar.dailykharch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906363775700-p6r95fmh2ookcb78phsnippir34notld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darshandangar.dailykharch",
+            "certificate_hash": "3230acce0180e7465b4746102d82cfcee903a65d"
+          }
+        },
+        {
+          "client_id": "906363775700-4dg3mnbdud1lipr0dkofr8doq2niuclj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7S_wsoo9b8CmlO_0Tq1xSNROa97z0BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906363775700-4dg3mnbdud1lipr0dkofr8doq2niuclj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

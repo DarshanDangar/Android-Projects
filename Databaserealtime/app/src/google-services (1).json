@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "203615551062",
+    "project_id": "databaserealtime-7d2aa",
+    "storage_bucket": "databaserealtime-7d2aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203615551062:android:f5b3094a72ad91ca6385f7",
+        "android_client_info": {
+          "package_name": "com.darshandangar.databaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203615551062-1am6b8j6hncsgl5qi47pdu9dpkl147ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darshandangar.databaserealtime",
+            "certificate_hash": "3230acce0180e7465b4746102d82cfcee903a65d"
+          }
+        },
+        {
+          "client_id": "203615551062-4th7qlt8f3bjs9e78vlitstjk3ga36hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5D7cf8ErVErpWv1KRMIasZeGQi1ug9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203615551062-4th7qlt8f3bjs9e78vlitstjk3ga36hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
